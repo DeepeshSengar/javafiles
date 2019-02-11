@@ -1,2 +1,9 @@
 String myString = ”asdfghjkl”;
 System.out.println(myString.length());
+
+
+*****printing name and surname total characters
+String firstname = ”Deepesh”;
+String secondname = ”Sengar”;
+int length = firstname.length() + secondname.length();
+system.out.println(“Total characters in my name are” + length);
