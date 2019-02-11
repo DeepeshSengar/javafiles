@@ -1,0 +1,10 @@
+public class HelloWorld{
+	public static void main(String[] args){
+	
+	int[] greaternumber = {65, 81};
+	if (greaternumber[1] > greaternumber[0]){
+	System.out.println("2nd statement is greater than the first");
+	}
+	else {
+	System.out.println("its not");
+	}	}	}
