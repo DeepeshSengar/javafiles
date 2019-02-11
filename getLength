@@ -1,0 +1,2 @@
+String myString = ”asdfghjkl”;
+System.out.println(myString.length());
