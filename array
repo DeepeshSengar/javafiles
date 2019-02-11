@@ -1,0 +1,10 @@
+/*Int[] primeNumbers = {2, 3, 5, 7, 11}; Do not forget we used curly brackets here.
+There fore it is an array of prime numbers and in this case it is called collection of integers.
+It is a very useful cosnstruct for us,for example, if we wanted to have a list of images that we downloaded from instagram or list of our users or anything like that, we can store it as an array.
+And simply print them
+System.out.println(primeNumbers);
+Output:Wrong  just because primeNumbers is an array and not a string.therefor trying to print as a line dosen`t work here.So we try to display the second or any number of an array.
+System.out.println(primeNumbers[2]);
+Output: 5
+We can also print Length of an array by typing
+System.out.println(primeNumbers.length);*/
