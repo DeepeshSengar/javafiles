@@ -1,0 +1,7 @@
+List list = new ArrayList();
+list.add (2);
+list.add(3);
+list.add(5);
+
+System.out.println(List.get(1));
+Output: 3
