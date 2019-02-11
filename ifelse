@@ -1,0 +1,13 @@
+public class HelloWord {
+	public static void main(String[] args){
+	int age = 16;
+	if (age>18){
+		System.out.println("USer is over 18");
+		} 
+else if (age<18){
+system.out.println(“User is under 18”);
+}
+else { 
+	
+		System.out.println("User is not over 18");
+	}	}	}
