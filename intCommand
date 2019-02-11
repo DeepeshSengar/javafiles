@@ -1,0 +1,5 @@
+Public class intDoubleShit{
+Public static void main(String[] args){
+int favouriteNumber = 20;
+System.out.println(fouriteNumber);}        }
+#	int for whole number, double for decimal numbers.
