@@ -5,3 +5,16 @@ list.add(5);
 
 System.out.println(List.get(1));
 Output: 3
+__________________________________________________________________________________
+
+Import java.util.*;
+Public class HelloWorld{
+Public static void main(String[] args) {
+List countries = new Arraylist();
+countries.add(“India”);
+countries.add(“United States”);
+countries.add(“United Kingdom”);
+countries.remove(2);
+countries.add(“Ireland”);
+system.ot.println(countries.toString())
+} }
