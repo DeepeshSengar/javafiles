@@ -1,0 +1,11 @@
+Map map = HashMap();
+map.put(“Father”, “Rob”);----------------------- Here we are linking father and rob.
+System.out.println(map.get(“Father”);
+Output: Rob
+____________________________
+Map map = HashMap();
+Map.put(“Father”, “Rob”);
+Map.put(“Mother”, Kirsten”);
+System.out.println(map.toString());
+Output:{ Mother=Kirsten, Father=Rob}
+// We can also remove by using  map.remove 
