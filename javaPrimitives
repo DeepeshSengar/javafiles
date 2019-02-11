@@ -1,0 +1,8 @@
+byte (number, 1 byte) goes from -128 to 127
+short (number, 2 bytes) goes from -32768 to 32767
+int (number, 4 bytes) goes from -231 to 231-1
+long (number, 8 bytes) goes from-263 to 262-1
+float (float number, 4 bytes) Single type precision 32 bit 754 floating point
+double (float number, 8 bytes) double precision type 64 bit 754 floating point
+char (a character, 2 bytes)16 bit Unicode min-/u0000 max-uffff (65000 inclusive)
+boolean (true or false, 1 byte) only two values true or false.
