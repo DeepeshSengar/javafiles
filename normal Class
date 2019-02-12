@@ -1,0 +1,13 @@
+//by Deepesh Sengar
+class User {
+	
+		int score;
+		}
+	User bob = new User();
+	
+	bob.score = 10;
+	
+	System.out.println(bob.score);
+  
+  
+  Output: 10
